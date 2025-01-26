@@ -31,6 +31,10 @@ The competition presents a dataset of approximately 23,000 high-quality RGB imag
 <img src="images/architecture.png" alt="Model Architecture" width="500">
 </div>
 
+<div align="center">
+<img src="images/model.svg" alt="Model Architecture" width="500">
+</div>
+
 ### Training Process
 
 - **Dataset Splitting**: The dataset is split into training, validation, and test sets.
